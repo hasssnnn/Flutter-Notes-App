@@ -9,17 +9,17 @@ Framework:
 Flutter 3.13.4
 
 Utilities:
--add notes
+add notes
 -edit notes
 -pick a color for the note
 -delete note
 
 Tools:
--Bloc state management
+Bloc state management
 -Hive
 -Flutter launcher icon
 -Native splash screen
 
 Fonts:
--Poppins
+Poppins
 -Libre Baskerville
